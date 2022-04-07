@@ -1,6 +1,6 @@
 # Remix Bscscan Plugin
 
-A plugin to verify contracts in Etherscan
+A plugin to verify contracts in Bscscan
 
 [![CircleCI](https://circleci.com/gh/turndealer/remix-bscscan-plugin.svg?style=svg)](https://circleci.com/gh/turndealer/remix-bscscan-plugin)
 

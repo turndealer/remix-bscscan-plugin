@@ -1,5 +1,5 @@
 {
-  "name": "remix-etherscan",
+  "name": "remix-bscscan",
   "version": "0.1.0",
   "description": "A plugin to verify contracts in Etherscan",
   "author": "MachinaLabs",
@@ -31,7 +31,7 @@
     "test:ci": "CI=true react-scripts test",
     "tslint": "tslint -c tslint.json src/**/*.{ts,tsx} --fix --format verbose",
     "check-formatting": "prettier --write --list-different './src/**/*.tsx'",
-    "deploy": "yarn build && surge --project ./build --domain machinalabs-remix-etherscan-plugin-v2.surge.sh"
+    "deploy": "yarn build && surge --project ./build --domain turndealer-remix-bscscan-plugin-v2.surge.sh"
   },
   "eslintConfig": {
     "extends": "react-app"

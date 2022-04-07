@@ -4,8 +4,8 @@ type RemixClient = PluginClient
 
 export const getEtherScanApi = (network: string) => {
   return network === "main"
-    ? `https://api.etherscan.io/api`
-    : `https://api-${network}.etherscan.io/api`
+    ? `https://api.bscscan.com/api`
+    : `https://api-${network}.bscscan.com/api`
 }
 
 export const getNetworkName = async (client: RemixClient) => {
@@ -15,7 +15,7 @@ export const getNetworkName = async (client: RemixClient) => {
   }
   const name = network.name!.toLowerCase()
   // TODO : remove that when https://github.com/ethereum/remix-ide/issues/2017 is fixe
-  return name === "görli" ? "goerli" : name
+  return name === "testnet" ? "testnet" : name
 }
 
 export const getReceiptStatus = async (

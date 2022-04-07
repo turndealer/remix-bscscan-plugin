@@ -2,7 +2,7 @@
 
 A plugin to verify contracts in Etherscan
 
-[![CircleCI](https://circleci.com/gh/turndealer/remix-bscscan-plugin.svg?style=svg)](https://circleci.com/gh/Machinalabs/remix-etherscan-plugin)
+[![CircleCI](https://circleci.com/gh/turndealer/remix-bscscan-plugin.svg?style=svg)](https://circleci.com/gh/turndealer/remix-bscscan-plugin)
 
 Full documentation https://remix-etherscan-plugin.readthedocs.io/en/latest/
 

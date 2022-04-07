@@ -1,6 +1,6 @@
-# Remix Etherscan plugin
+# Remix Bscscan plugin
 
-The Remix Etherscan plugin allow you to verify smart contracts in Etherscan. 
+The Remix Bscscan plugin allow you to verify smart contracts in Bscscan. 
 
 ## Activate
 
@@ -14,4 +14,4 @@ Once the contracts are compiled, go to the Etherscan plugin and you can select t
 
 ## Issues
 
-If you have any issues, please feel free to create an issue in our [Github repository](https://github.com/Machinalabs/remix-etherscan-plugin/issues).
+If you have any issues, please feel free to create an issue in our [Github repository](https://github.com/turndealer/remix-bscscan-plugin/issues).
